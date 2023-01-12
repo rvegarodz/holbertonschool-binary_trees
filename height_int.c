@@ -28,5 +28,4 @@ int height_int(const binary_tree_t *tree)
 			count = r_height + 1;
 	}
 	return (count);
-i
 }
