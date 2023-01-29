@@ -1,6 +1,6 @@
 # Files created to Binary Trees Project
 
-- File 0 - function that creates a binary tree node
+- File 0 - C function that creates a binary tree node
 - File 1 - C function that inserts a node as the left-child of another node
 - File 2 - C function that inserts a node as the right-child of another node
 - File 3 - C function that deletes an entire binary tree
